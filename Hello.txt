@@ -1,4 +1,8 @@
 Row 1
 Row 2
+<<<<<<< HEAD
 Row 6
+=======
+Row 3
+>>>>>>> master
 Row 4
